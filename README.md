@@ -373,6 +373,6 @@ const friend = ['Bob', 'Tony', 'Tanya']
 const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
-Изменение 1 в branch2
-Изменение 2 в branch2
-Изменение 3 в branch2
+Изменение 1 в branch
+Изменение 2 в branch
+Изменение 3 в branch
